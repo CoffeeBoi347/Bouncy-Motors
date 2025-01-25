@@ -1,2 +1,2 @@
-# RooftopSnipersClone
-A rooftop snipers clone built using Unity Engine &amp; C# for testing multiplayer in games.
+# Restaurant Simulator
+A restaurant simulator built using Unity Engine &amp; C# for testing multiplayer in games.
